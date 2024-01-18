@@ -9,7 +9,7 @@ App(
     fap_category="Examples",
     # Optional values
     fap_version="0.0.1",
-    fap_icon="2can_app.png",  # 10x10 1-bit PNG
+    fap_icon="two_can_app.png",  # 10x10 1-bit PNG
     fap_description="A CAN logger for the flipper",
     fap_author="x86ed",
     fap_weburl="https://github.com/x86ed/2can",
