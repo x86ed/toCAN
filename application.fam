@@ -2,7 +2,7 @@
 
 App(
     appid="2can_app",  # Must be unique
-    name="App 2can_app",  # Displayed in menus
+    name="2CAN",  # Displayed in menus
     apptype=FlipperAppType.EXTERNAL,
     entry_point="two_can_app_app",
     stack_size=2 * 1024,
